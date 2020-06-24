@@ -215,6 +215,7 @@ from .agilentE3649A import agilentE3649A
 # Source measure units
 from .agilentU2722A import agilentU2722A
 from .agilentU2723A import agilentU2723A
+from .agilentB2901A import agilentB2901A
 
 # RF Power Meters
 from .agilent436A import agilent436A
